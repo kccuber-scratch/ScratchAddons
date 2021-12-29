@@ -1,6 +1,6 @@
 {
   "name": "Better emojis",
-  "description": "Replaces the cat emojis, the Scratch Cat emoji, the Gobo emoji, and the waffle emoji in comments on the website with improved vector designs.",
+  "description": "Replaces the emojis in comments on the website with improved vector designs.",
   "tags": ["community", "comments"],
   "credits": [
     {
@@ -17,7 +17,6 @@
       "url": "userscript.js",
       "matches": ["https://scratch.mit.edu/*"]
     }
-    
   ],
   "enabledByDefault": false,
   "versionAdded": "1.1.0"
